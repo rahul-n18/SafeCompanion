@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/yourusername/safecompanion/main/demo.gif" alt="SafeCompanion Demo" width="700"/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-brightgreen?style=for-the-badge)](https://safecompanion.demo)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-8E75B2?style=for-the-badge&logo=google)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -23,6 +22,12 @@ SafeCompanion is a **multimodal AI agent** built with React and Google's Gemini 
 
 
 <img width="340" height="559" alt="Screenshot 2025-11-29 at 5 19 56 PM" src="https://github.com/user-attachments/assets/54834153-e0ba-4483-9bb7-a48d54b70fa8" />
+
+
+
+https://github.com/user-attachments/assets/70669acf-f699-4697-9a20-a4872620d13f
+
+
 
 
 
