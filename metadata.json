@@ -1,0 +1,8 @@
+{
+  "name": "SafeCompanion",
+  "description": "A multimodal AI agent acting as a 24/7 assistant for elderly or visually impaired users, featuring real-time visual assistance, conversational companionship, and smart home integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
